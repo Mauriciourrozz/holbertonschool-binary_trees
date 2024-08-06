@@ -3,7 +3,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_insert_left - Inserta un nodo como  hijo izquierdo de otro nodo
+ * binary_tree_insert_right - Inserta un nodo como hijo derecho de otro nodo
  * @parent: puntero al nodo para insertar el nodo
  * @value: Valor a almacenar el nuevo nodo
  * Return: Valor del nuevonodo
